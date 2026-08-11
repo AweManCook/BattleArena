@@ -1,15 +1,17 @@
-# Petal Clash Arena — Pixel Edition
+# Petal Clash Arena
 
-A browser fighting game with local two-player combat, four CPU difficulties, a complete controls menu, and an in-game guide for all nine fighters.
+A browser-based pixel fighting game with local two-player and four CPU difficulties.
 
-## Roster
+## Current mechanics
 
-Flower Swordsman, Yuji, Aeon, Gojo, Tanjiro, Luffy, Killua, Kashimo, and Mahito.
+- Nine fighters with distinct specials and ultimates
+- Random fighter selection
+- Higher, balanced jumps and true zero-damage blocking
+- 1.5-second combo-cancel dash (`E` for P1, `O` for P2)
+- Automatic five-second ultimate cooldown
+- Flower Swordsman's hold-to-charge shockwave
+- Kashimo's Mythical Beast Amber charging transformation
+- Built-in controls menu and complete fighter guide
 
-## Controls
+Play through GitHub Pages or open `index.html` from a static server.
 
-- Player 1: `A/D` move, `W` jump, `S` block, `F/G/H/R` attacks.
-- Player 2: arrow keys move/jump/block, `J/K/L/U` attacks.
-- `P` pauses.
-
-Open **Controls** or **Fighter Guide** inside the game for full instructions and character strategies.
